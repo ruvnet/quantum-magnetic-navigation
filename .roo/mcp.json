@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "quantum-nav": {
+      "command": "python -m scripts.run_mcp_server_fixed --map tests/data/5x5_grid.tif",
+      "description": "Quantum Magnetic Navigation MCP Server"
+    }
+  }
+}
