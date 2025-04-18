@@ -1,0 +1,27 @@
+[
+  {
+    "lat": 0.0,
+    "lon": 0.0,
+    "expected": 0.0
+  },
+  {
+    "lat": 4.0,
+    "lon": 4.0,
+    "expected": 44.0
+  },
+  {
+    "lat": 2.0,
+    "lon": 3.0,
+    "expected": 23.0
+  },
+  {
+    "lat": 0.5,
+    "lon": 0.5,
+    "expected": 5.5
+  },
+  {
+    "lat": 2.5,
+    "lon": 3.5,
+    "expected": 28.5
+  }
+]
